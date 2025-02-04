@@ -1,4 +1,4 @@
-# Student Record Management System
+# Student Record Management System .
 
 This project implements a web-based student record management system using Flask, HTML, CSS, JavaScript, and SQL (SQLite). It provides a user-friendly interface for managing student data, including viewing, searching, and updating records. This project was primarily a learning exercise to explore full-stack development concepts and best practices.
 
