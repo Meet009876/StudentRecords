@@ -86,7 +86,6 @@ student-record-management/
 
 - **JavaScript Scope:** Initially, I encountered issues with JavaScript's scope when trying to call the `showModal` function from inline `onclick` handlers in the HTML. This was resolved by using event delegation on the table body.
 - **Event Delegation:** Learning and implementing event delegation was a key takeaway from this project. It's a powerful technique for handling events on dynamically generated elements.
-- *(Add any other challenges and learnings here)*
 
 ## Future Enhancements
 
